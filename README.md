@@ -38,7 +38,8 @@ Here is a recommended folder structure:
 │   │   └── contact.css
 │
 ├── /js
-│   └── main.js         # Main JavaScript file
+│   ├── main.js         # Main JavaScript file
+│   ├── server.js       # Express.js server setup
 │   └── README.md       # JavaScript documentation
 │
 │
