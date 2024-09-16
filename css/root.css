@@ -1,0 +1,27 @@
+@import url("./base/typography.css");
+@import url("./components/button.css");
+@import url("./components/card.css");
+@import url("./layout/flexbox.css");
+@import url("./layout/footer.css");
+@import url("./layout/grid.css");
+@import url("./layout/header.css");
+@import url("./layout/media-queries.css");
+@import url("./layout/navbar.css");
+@import url("./pages/home.css");
+@import url("./pages/about.css");
+@import url("./pages/services.css");
+@import url("./pages/contact.css");
+
+
+/* Style variables */
+:root {
+  --color1: #ffb6e7;
+  --color2: #c8d1ef;
+  --color3: #f1e0bf;
+  --titles-color: #b80003;
+
+  --background-light: #f4f7fa;
+  --background-white: #fff;
+
+  --font-colour: #161c2d;
+}
